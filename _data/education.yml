@@ -1,10 +1,14 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
+- course: Bachelor of Arts - Political Science
+  institute: Queens College
+  dates: 2010 - 2014
   logo: uob.png
   
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
+- course: Bachelor of Arts - Political Science
+  institute: Queens College
+  dates: 2010 - 2014
   logo: fellowship.svg
-  
+
+- course: Advanced Software Engineering Residency
+  institute: Codesmith
+  dates: Aug 2018 - Nov 2018
+  logo: fellowship.svg
