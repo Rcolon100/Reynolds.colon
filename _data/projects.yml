@@ -1,21 +1,24 @@
-- title: Social Good!
+- title: In-Tents Camping!
   event: MLH Fellowship Explorer Sprint 5
-  date: Fall 2020 - Batch 1
+  date: Fall 2017
+  page: itc
 
-- title: Developer Tools!
-  event: MLH Fellowship Explorer Sprint 4
-  date: Fall 2020 - Batch 1
+- title: RGB Game
+  event: MLH Hackathon
+  date: Spring 2018
+  page: rgbG
 
-- title: Machine Learning Project
-  event: MLH Fellowship Explorer Sprint 3
-  date: Fall 2020 - Batch 1
+- title: Stress Reliever!
+  event: Realized-Technologies
+  date: Fall 2018
+  page: sr
 
-- title: Fun Game
-  event: MLH Fellowship Explorer Sprint 2
-  date: Fall 2020 - Batch 1
+- title: Wasp GraphQL
+  event: Black Wasp Tech
+  date: Fall 2019 - Ongoing
   page-name: waspgraphql
 
-- title: Flash Card Generator
+- title: Test
   event: MLH Fellowship Explorer Sprint 1
   date: Fall 2020 - Batch 1
   page-name: sprint1
