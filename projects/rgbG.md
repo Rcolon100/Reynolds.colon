@@ -1,5 +1,5 @@
 ---
-title: Wasp GraphQL
+title: RGB Game
 layout: page
 ---
 

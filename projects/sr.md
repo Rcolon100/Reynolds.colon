@@ -1,5 +1,5 @@
 ---
-title: Wasp GraphQL
+title: Stress Reliever
 layout: page
 ---
 

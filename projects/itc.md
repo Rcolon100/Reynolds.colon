@@ -1,5 +1,5 @@
 ---
-title: Wasp GraphQL
+title: In-Tents Camping
 layout: page
 ---
 
