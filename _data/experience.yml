@@ -6,7 +6,7 @@
 
   - role: Consultant
   company: Peak Systems
-  client: Citibank, JP Morgan, Morgan Stanley, UBS
+  client: "Citibank, JP Morgan, Morgan Stanley, UBS"
   dates: June 2016 - January 2019
   logo: peak.png
 
@@ -14,7 +14,7 @@
   company: Black Wasp Tech
   client: Open Source
   dates: June 2018 - Present
-  logo: peak.png
+  logo: bw-logo.png
 
   - role: Front End Developer
   company: MLH
