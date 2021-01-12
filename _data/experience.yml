@@ -1,4 +1,23 @@
-- role: Open Source Fellow
-  company: MLH Fellowship
-  dates: Summer 2020
+- role: Senior Desktop Support Technician
+  company: DXC Technology
+  client: Citibank
+  dates: January 2019 - Present
   logo: dxc.jpeg
+
+  - role: Consultant
+  company: Peak Systems
+  client: Citibank, JP Morgan, Morgan Stanley, UBS
+  dates: June 2016 - January 2019
+  logo: peak.png
+
+  - role: Full Stack Developer
+  company: Black Wasp Tech
+  client: Open Source
+  dates: June 2018 - Present
+  logo: peak.png
+
+  - role: Front End Developer
+  company: MLH
+  client: Major League Hacking
+  dates: June 2016 - Present
+  logo: mlh.jpg

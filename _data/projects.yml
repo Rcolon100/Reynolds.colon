@@ -1,24 +1,24 @@
 - title: In-Tents Camping!
-  event: MLH Fellowship Explorer Sprint 5
+  event: MLH Hackathon
   date: Fall 2017
   page-name: itc
 
-- title: RGB Game
-  event: MLH Hackathon
-  date: Spring 2018
-  page-name: rgbG
-
 - title: Stress Reliever
   event: Realized-Technologies
-  date: Fall 2018
+  date: Spring 2018
   page-name: sr
+
+- title: RGB Game
+  event: Build On Code Hackathon
+  date: Fall 2018
+  page-name: rgbG
 
 - title: Wasp GraphQL
   event: Black Wasp Tech
   date: Fall 2019 - Ongoing
   page-name: waspgraphql
 
-- title: Test
-  event: MLH Fellowship Explorer Sprint 1
-  date: Fall 2020 - Batch 1
-  page-name: sprint1
+- title: getSerious
+  event: Black Wasp Tech
+  date: Winter 2020
+  page-name: getSerious
